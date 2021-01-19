@@ -1,0 +1,8 @@
+{
+  "name": "vue-goals-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "David Armendariz <darmendariz1998@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {}
+}
