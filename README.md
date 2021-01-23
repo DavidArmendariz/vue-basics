@@ -10,3 +10,9 @@ In these 3 small apps, you will learn about the basic of Vue:
 - Watchers
 - Styling
 - Dynamic styling with object-based or array-based syntaxes
+- `v-if`
+- `v-else-if`
+- `v-else`
+- `v-show`
+- `v-for`
+- keys
